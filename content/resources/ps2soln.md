@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-812j-managing-nuclear-technology-spring-2004/f229681eb4b94aff725f3f43401fd9fe_ps2soln.pdf
+file: /media/courses/22-812j-managing-nuclear-technology-spring-2004/f229681eb4b94aff725f3f43401fd9fe_ps2soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps2soln.pdf
 uid: f229681e-b4b9-4aff-725f-3f43401fd9fe

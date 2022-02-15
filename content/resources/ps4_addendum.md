@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Additional problem for Problem Set 4.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-812j-managing-nuclear-technology-spring-2004/5a16a472fb702ea5a93067b5d7f68210_ps4_addendum.pdf
+file: /media/courses/22-812j-managing-nuclear-technology-spring-2004/5a16a472fb702ea5a93067b5d7f68210_ps4_addendum.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps4_addendum.pdf
 uid: 5a16a472-fb70-2ea5-a930-67b5d7f68210

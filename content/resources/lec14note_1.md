@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Notes for Lecture 14.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-812j-managing-nuclear-technology-spring-2004/adcf76559768e7131339f5ceb8f4718c_lec14note_1.pdf
+file: /media/courses/22-812j-managing-nuclear-technology-spring-2004/adcf76559768e7131339f5ceb8f4718c_lec14note_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec14note_1.pdf
 uid: adcf7655-9768-e713-1339-f5ceb8f4718c
