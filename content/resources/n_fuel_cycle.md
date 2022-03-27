@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6395cc53-a04e-48e7-b450-05672edddbb8
 resourcetype: Document
 title: n_fuel_cycle.pdf
 uid: cd2c662b-a847-6631-c79c-8b103227093a

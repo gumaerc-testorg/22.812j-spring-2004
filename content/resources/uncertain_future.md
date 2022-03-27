@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6395cc53-a04e-48e7-b450-05672edddbb8
 resourcetype: Document
 title: uncertain_future.pdf
 uid: 2436db35-04ea-7797-dbf6-9fc527d0b5d6

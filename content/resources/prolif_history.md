@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6395cc53-a04e-48e7-b450-05672edddbb8
 resourcetype: Document
 title: prolif_history.pdf
 uid: 333487d1-2075-733b-7b1d-01f25b4d1f6a

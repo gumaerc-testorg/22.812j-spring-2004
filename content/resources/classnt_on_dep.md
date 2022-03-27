@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6395cc53-a04e-48e7-b450-05672edddbb8
 resourcetype: Document
 title: classnt_on_dep.pdf
 uid: 0fe57099-2b6c-01ca-3326-9cf24bb9d266

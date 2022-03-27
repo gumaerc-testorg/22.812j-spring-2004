@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6395cc53-a04e-48e7-b450-05672edddbb8
 resourcetype: Document
 title: repro_report.pdf
 uid: 13ecfb7d-8c65-92c3-832e-f41faababdfd
