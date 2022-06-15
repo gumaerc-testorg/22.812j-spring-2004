@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -79,7 +80,7 @@ The Effects of Inflation
 Calculation of Capital Costs
 {{< tdclose >}}
 {{< tdopen >}}
-An Illustration of the Use of Depreciation ([PDF]({{< baseurl >}}/resources/classnt_on_dep))  
+An Illustration of the Use of Depreciation ({{% resource_link 0fe57099-2b6c-01ca-3326-9cf24bb9d266 "PDF" %}})  
   
 Sullivan, William, et al. "Depreciation and Income Taxes." Chapter 6 in _Engineering Economy_. Upper Saddle River, NJ: Prentice-Hall, 1999. ISBN: 9780130115706.
 {{< tdclose >}}
@@ -223,7 +224,7 @@ Economics of the Nuclear Fuel Cycle (II): Enrichment Case Study
 Reprocessing and MOX Recycle: Economics and other Considerations
 {{< tdclose >}}
 {{< tdopen >}}
-The Economics Of Reprocessing Vs. Direct Disposal Of Spent Nuclear Fuel ([PDF - 1.3 MB]({{< baseurl >}}/resources/repro_report)) (Courtesy of Matthew Bunn. Used with permission.)
+The Economics Of Reprocessing Vs. Direct Disposal Of Spent Nuclear Fuel ({{% resource_link 13ecfb7d-8c65-92c3-832e-f41faababdfd "PDF - 1.3 MB" %}}) (Courtesy of Matthew Bunn. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +248,7 @@ See Related Resources - "Nonproliferation" Links
 Proliferation-resistance and Nuclear Energy
 {{< tdclose >}}
 {{< tdopen >}}
-Civilian Nuclear Energy and Nuclear Weapons Programs: The Record ([PDF]({{< baseurl >}}/resources/prolif_history)) (Courtesy of Matthew Bunn. Used with permission.)  
+Civilian Nuclear Energy and Nuclear Weapons Programs: The Record ({{% resource_link 333487d1-2075-733b-7b1d-01f25b4d1f6a "PDF" %}}) (Courtesy of Matthew Bunn. Used with permission.)  
   
 See Related Resources - Links for "Nonproliferation and Energy" and "Nonproliferation Careers for Nuclear Engineers"
 {{< tdclose >}}
@@ -285,7 +286,7 @@ _[The Future of Nuclear Power](http://web.mit.edu/nuclearpower/) ._ pp. 53-63, 1
 Nuclear Waste Management (I)
 {{< tdclose >}}
 {{< tdopen >}}
-Probability Neglect: Emotions, Worst Cases, and Law ([PDF]({{< baseurl >}}/resources/sunstein_copy_1)) (Courtesy of Cass R. Sunstein. Used with permission.)
+Probability Neglect: Emotions, Worst Cases, and Law ({{% resource_link 0e6eadb9-d2f9-d956-deb5-ad09342df66e "PDF" %}}) (Courtesy of Cass R. Sunstein. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

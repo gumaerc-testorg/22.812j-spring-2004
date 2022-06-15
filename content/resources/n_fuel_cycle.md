@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-812j-managing-nuclear-technology-spring-2004/cd2c662ba8476631c79c8b103227093a_n_fuel_cycle.pdf
+file: /courses/22-812j-managing-nuclear-technology-spring-2004/cd2c662ba8476631c79c8b103227093a_n_fuel_cycle.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

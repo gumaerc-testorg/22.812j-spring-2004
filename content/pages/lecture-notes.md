@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -34,7 +35,7 @@ NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec01slides))
+({{% resource_link 254894d3-1192-2158-fe02-ff594253820d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -53,10 +54,10 @@ The Time Value of Money
 Discrete and Continuous Compounding
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec02slides))
+({{% resource_link 64416bf5-4bd3-c554-caac-acdc6d3363ba "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec02notes))
+({{% resource_link 88b9392d-1381-10ac-50a7-0d6de146b87d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +69,7 @@ Discrete and Continuous Compounding
 Time Value of Money Mechanics (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec03slides))
+({{% resource_link 8a259e0a-8d3f-a54f-4ee4-cf3ddd453ffc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -85,10 +86,10 @@ The Effects of Inflation
 Calculation of Capital Costs
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0 MB]({{< baseurl >}}/resources/22812lec04slides2))
+({{% resource_link 94577472-b3e1-949f-1455-42237602cf24 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec04notes))
+({{% resource_link d5a391f4-2ee7-7679-e987-f488a72fbb46 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +101,7 @@ Calculation of Capital Costs
 Depreciation, Capital Recovery, and Taxes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec05slides))
+({{% resource_link 41e174d9-7717-9ad2-2848-91a63a8c0c4c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -115,7 +116,7 @@ Depreciation, Capital Recovery, and Taxes
 Depreciation, Capital Recovery, and Taxes (II)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec06slides))
+({{% resource_link 67680d59-d941-80ac-93b6-a8cc44ccb43b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -135,7 +136,7 @@ Carrying Charges
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec07notes))
+({{% resource_link a8f44a12-d2d3-0378-8f2c-da601d1c6461 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +151,7 @@ Methods for Project Evaluation
  
 {{< tdclose >}}
 {{< tdopen >}}
-([XLS]({{< baseurl >}}/resources/lec08notes))
+({{% resource_link e9141284-bd51-40f2-4cf5-5a75179c04b5 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,10 +163,10 @@ Methods for Project Evaluation
 Methods for Project Evaluation (II): Nuclear Power Economics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec09slides))
+({{% resource_link b8bb4169-7996-f505-4e71-5064ca9d8fb1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec09notes))
+({{% resource_link 0d22661d-6718-befa-715e-36166a352b8a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,9 +195,9 @@ Retirement/Replacement Problems
 Cost of Capital
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/lec11slides_1))  
+({{% resource_link cc00b52f-2f94-4c97-2cfa-8848fc423732 "PDF 1" %}})  
   
-([PDF 2]({{< baseurl >}}/resources/lec11slides_2))
+({{% resource_link 558302a4-0c65-a818-80f8-9d7dff0e904f "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -211,7 +212,7 @@ Cost of Capital
 Evaluating Projects under Uncertainty
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec12slides))
+({{% resource_link f7b48f01-3eb2-5055-c27d-dc9db9c7a754 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -242,12 +243,12 @@ Material Balances and Simple Cost Models
 Economics of the Nuclear Fuel Cycle (II): Enrichment Case Study
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.9 MB]({{< baseurl >}}/resources/lec14slides))
+({{% resource_link 55c3d051-e316-b0bc-92d4-86989ca36acd "PDF - 2.9 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/lec14note_1))  
+({{% resource_link adcf7655-9768-e713-1339-f5ceb8f4718c "PDF 1" %}})  
   
-([PDF 2]({{< baseurl >}}/resources/lec14note_2))
+({{% resource_link 14217f9b-b284-e104-493f-395a5cbd3613 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,10 +260,10 @@ Economics of the Nuclear Fuel Cycle (II): Enrichment Case Study
 Reprocessing and MOX Recycle: Economics and other Considerations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15slides))
+({{% resource_link d685badb-982e-42a1-c75b-d969e756acdc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15note))
+({{% resource_link f7076352-b4b6-c781-7fc5-b4fe4bd577b4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,10 +277,10 @@ Nonproliferation, Safeguards, and Export Controls
 _Guest Lecturer:_ Matthew Bunn, Harvard University
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5 MB]({{< baseurl >}}/resources/lec16slides))
+({{% resource_link 6c61fed7-4472-26b6-1cd9-9915d359e7f9 "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16notes)) (Courtesy of Matthew Bunn. Used with permission.)
+({{% resource_link 2f1945e1-3a0a-dd35-3d8b-60030c421af5 "PDF" %}}) (Courtesy of Matthew Bunn. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -293,7 +294,7 @@ Proliferation-resistance and Nuclear Energy
 _Guest Lecturer_: Matthew Bunn, Harvard University
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec17slides))
+({{% resource_link 68247945-4fd6-823c-2acd-f49fdab729b0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -323,10 +324,10 @@ Quiz #2
 Externalities: Accounting and Regulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec19slides))
+({{% resource_link addb44c2-cae5-79c4-b61a-50952d3e0af9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec19notes))
+({{% resource_link 181514fd-c369-ae79-7bc8-a7c45fa250f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -338,7 +339,7 @@ Externalities: Accounting and Regulation
 Nuclear Waste Management (I)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lec20slides))
+({{% resource_link f4ce5cdd-6d8b-6b8a-ff7f-0a8012c21e01 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -368,7 +369,7 @@ Nuclear Waste Management (II)
 Risk Perceptions, Communication and Public Attitudes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7 MB]({{< baseurl >}}/resources/lec22slides))
+({{% resource_link ae52f874-4060-a0db-0ead-d700d16e3a5b "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -383,7 +384,7 @@ Risk Perceptions, Communication and Public Attitudes
 Future of Nuclear Power
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec23slides))
+({{% resource_link c551f782-cb0c-2d30-d1bb-52e4537022fa "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
