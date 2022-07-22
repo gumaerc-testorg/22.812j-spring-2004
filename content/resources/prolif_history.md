@@ -5,6 +5,7 @@ file: /courses/22-812j-managing-nuclear-technology-spring-2004/333487d12075733b7
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: prolif_history.pdf
 uid: 333487d1-2075-733b-7b1d-01f25b4d1f6a
 ---
 Paper authored by guest lecturer Matthew Bunn of Harvard University.
-

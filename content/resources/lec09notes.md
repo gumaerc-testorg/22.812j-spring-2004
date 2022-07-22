@@ -5,6 +5,7 @@ file: /courses/22-812j-managing-nuclear-technology-spring-2004/0d22661d6718befa7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec09notes.pdf
 uid: 0d22661d-6718-befa-715e-36166a352b8a
 ---
 Notes for Lecture 9.
-

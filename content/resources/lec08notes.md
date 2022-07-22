@@ -5,6 +5,7 @@ file: /courses/22-812j-managing-nuclear-technology-spring-2004/e9141284bd5140f24
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec08notes.xls
 uid: e9141284-bd51-40f2-4cf5-5a75179c04b5
 ---
 Spreadsheet associated with Lecture 8.
-

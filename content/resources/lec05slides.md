@@ -5,6 +5,7 @@ file: /courses/22-812j-managing-nuclear-technology-spring-2004/41e174d977179ad22
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec05slides.pdf
 uid: 41e174d9-7717-9ad2-2848-91a63a8c0c4c
 ---
 Slide presentation of Lecture 5.
-

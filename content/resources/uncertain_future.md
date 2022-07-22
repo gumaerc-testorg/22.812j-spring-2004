@@ -5,6 +5,7 @@ file: /courses/22-812j-managing-nuclear-technology-spring-2004/2436db3504ea7797d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: uncertain_future.pdf
 uid: 2436db35-04ea-7797-dbf6-9fc527d0b5d6
 ---
 Assigned excerpt from a book.
-

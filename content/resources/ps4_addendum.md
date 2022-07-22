@@ -5,6 +5,7 @@ file: /courses/22-812j-managing-nuclear-technology-spring-2004/5a16a472fb702ea5a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4_addendum.pdf
 uid: 5a16a472-fb70-2ea5-a930-67b5d7f68210
 ---
 Additional problem for Problem Set 4.
-
