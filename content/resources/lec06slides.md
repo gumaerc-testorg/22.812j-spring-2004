@@ -2,6 +2,7 @@
 content_type: resource
 description: Slide presentation of Lecture 6.
 file: /courses/22-812j-managing-nuclear-technology-spring-2004/67680d59d94180ac93b6a8cc44ccb43b_lec06slides.pdf
+file_size: 216197
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

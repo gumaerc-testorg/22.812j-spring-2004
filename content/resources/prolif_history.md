@@ -2,6 +2,7 @@
 content_type: resource
 description: Paper authored by guest lecturer Matthew Bunn of Harvard University.
 file: /courses/22-812j-managing-nuclear-technology-spring-2004/333487d12075733b7b1d01f25b4d1f6a_prolif_history.pdf
+file_size: 145644
 file_type: application/pdf
 learning_resource_types:
 - Readings

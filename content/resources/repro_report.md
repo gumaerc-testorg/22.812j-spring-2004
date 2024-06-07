@@ -3,6 +3,7 @@ content_type: resource
 description: Report authored by Matthew Bunn, Steve Fetter, John P. Holdren, and Bob
   van der Zwaan.
 file: /courses/22-812j-managing-nuclear-technology-spring-2004/13ecfb7d8c6592c3832ef41faababdfd_repro_report.pdf
+file_size: 1375021
 file_type: application/pdf
 learning_resource_types:
 - Readings
