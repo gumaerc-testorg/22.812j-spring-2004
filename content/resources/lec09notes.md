@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes for Lecture 9.
-file: /courses/22-812j-managing-nuclear-technology-spring-2004/0d22661d6718befa715e36166a352b8a_lec09notes.pdf
+file: /ol-ocw-studio-app/courses/22-812j-managing-nuclear-technology-spring-2004/0d22661d6718befa715e36166a352b8a_lec09notes.pdf
 file_size: 326521
 file_type: application/pdf
 learning_resource_types:
