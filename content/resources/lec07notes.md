@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes for Lecture 7.
-file: /ol-ocw-studio-app/courses/22-812j-managing-nuclear-technology-spring-2004/a8f44a12d2d303788f2cda601d1c6461_lec07notes.pdf
+file: /courses/22-812j-managing-nuclear-technology-spring-2004/a8f44a12d2d303788f2cda601d1c6461_lec07notes.pdf
 file_size: 154171
 file_type: application/pdf
 learning_resource_types:

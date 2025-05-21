@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Spreadsheet associated with Lecture 8.
-file: /ol-ocw-studio-app/courses/22-812j-managing-nuclear-technology-spring-2004/e9141284bd5140f24cf55a75179c04b5_lec08notes.xls
+file: /courses/22-812j-managing-nuclear-technology-spring-2004/e9141284bd5140f24cf55a75179c04b5_lec08notes.xls
 file_size: 31232
 file_type: application/msword
 learning_resource_types:
