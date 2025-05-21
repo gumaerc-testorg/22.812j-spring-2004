@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slide presentation of Lecture 16. Guest lecturer: Matthew Bunn, Harvard
   University'
-file: /ol-ocw-studio-app/courses/22-812j-managing-nuclear-technology-spring-2004/6c61fed7447226b61cd99915d359e7f9_lec16slides.pdf
+file: /courses/22-812j-managing-nuclear-technology-spring-2004/6c61fed7447226b61cd99915d359e7f9_lec16slides.pdf
 file_size: 1529830
 file_type: application/pdf
 learning_resource_types:

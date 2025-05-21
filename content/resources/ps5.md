@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/22-812j-managing-nuclear-technology-spring-2004/b0ab77fb769d137fc5cf0f3c92992990_ps5.pdf
+file: /courses/22-812j-managing-nuclear-technology-spring-2004/b0ab77fb769d137fc5cf0f3c92992990_ps5.pdf
 file_size: 91937
 file_type: application/pdf
 learning_resource_types:
