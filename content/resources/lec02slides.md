@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slide presentation of Lecture 2.
-file: /courses/22-812j-managing-nuclear-technology-spring-2004/64416bf54bd3c554caacacdc6d3363ba_lec02slides.pdf
+file: /ol-ocw-studio-app/courses/22-812j-managing-nuclear-technology-spring-2004/64416bf54bd3c554caacacdc6d3363ba_lec02slides.pdf
 file_size: 328629
 file_type: application/pdf
 learning_resource_types:
