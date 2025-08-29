@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental handout for Lecture 14.
-file: /courses/22-812j-managing-nuclear-technology-spring-2004/14217f9bb284e104493f395a5cbd3613_lec14note_2.pdf
+file: /ol-ocw-studio-app/courses/22-812j-managing-nuclear-technology-spring-2004/14217f9bb284e104493f395a5cbd3613_lec14note_2.pdf
 file_size: 159337
 file_type: application/pdf
 learning_resource_types:
